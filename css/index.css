@@ -379,7 +379,7 @@ main::before {
     }
     .search-container button {
         max-width: 8em;
-        padding: .7em 1em;
+        padding: .68em .9em;
     }
 }
 
