@@ -37,7 +37,7 @@ h1 {
     font-size: 3rem;
     line-height: 1.2;
     letter-spacing: -1px;
-    color: hsl(257, 27%, 26%);
+    color: hsl(260, 8%, 14%);
     margin-bottom: 0;
 }
 
@@ -108,7 +108,7 @@ footer a:focus {
 
 .stats-container h2,
 .stats-container h3 {
-    color: hsl(257, 27%, 26%);
+    color: hsl(260, 8%, 14%);
     letter-spacing: -.2px;
 }
 
@@ -142,8 +142,15 @@ footer a {
 }
 
 @media (min-width: 700px) {
+    h1 {
+        font-size: 4rem;
+    }
     h2 {
         font-size: 2.2rem;
+    }
+
+    .hero-container p {
+        max-width: 80%;
     }
 }
 
