@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/nzabajp)
+- Solution URL: [GitHub](https://github.com/nzabajp/url-shortener)
 - Live Site URL: [Live site](https://nzabajp.github.io/url-shortener/)
 
 ## My process
